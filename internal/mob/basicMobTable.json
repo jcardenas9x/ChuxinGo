@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Poring",
+        "type": "Plant",
+        "size": "Medium",
+        "elem": "Water",
+        "elem_level": 1
+    }
+]
